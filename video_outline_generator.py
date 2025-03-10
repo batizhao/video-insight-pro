@@ -166,7 +166,7 @@ class VideoOutlineGenerator:
 
 def main():
     # 使用示例
-    api_key = "sk-704cab8be2e04a82a0eb608690e5aeb3"
+    api_key = "your-api-key"
     video_path = "/Users/bati/Downloads/zhouyue.mp4"
     
     generator = VideoOutlineGenerator(api_key)
