@@ -77,7 +77,7 @@ print(outline)
 
 ## 许可证
 
-[MIT License](LICENSE)
+[Apache License 2.0](LICENSE)
 
 ## 贡献指南
 
@@ -85,11 +85,10 @@ print(outline)
 
 ## 作者
 
-[Your Name]
+[@batizhao]
 
 ## 致谢
 
 - [MoviePy](https://zulko.github.io/moviepy/)
 - [Vosk](https://alphacephei.com/vosk/)
 - [DeepSeek](https://deepseek.com/)
-```
